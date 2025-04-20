@@ -7,5 +7,59 @@
     "interestTierRates": [2.75, 3.25],
     "interestPayoutFrequency": "monthly",
     "currency": "INR"
-  }
+  },
+  {
+    "templateName": "ICICI Savings",
+    "bankName": "ICICI Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [5000000],
+    "interestTierRates": [2.75, 3.25],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
+  {
+    "templateName": "HDFC Savings",
+    "bankName": "HDFC Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [5000000],
+    "interestTierRates": [2.75, 3.25],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
+  {
+    "templateName": "IDFC Savings",
+    "bankName": "IDFC Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [500000, 1000000, 1000000000, 2000000000],
+    "interestTierRates": [3.00, 5.00, 7.25, 4.50, 3.50],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
+  {
+    "templateName": "Equitas Savings",
+    "bankName": "Equitas Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [100000, 700000, 250000000],
+    "interestTierRates": [3.00, 5.00, 7.00, 7.80],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
+  {
+    "templateName": "Federal Savings",
+    "bankName": "Federal Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [5000000, 50000000],
+    "interestTierRates": [2.75, 3.50, 5.25],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
+  {
+    "templateName": "Kotak Savings",
+    "bankName": "Kotak Bank",
+    "interestType": "tiered",
+    "interestTierThresholds": [5000000],
+    "interestTierRates": [3.00, 3.50],
+    "interestPayoutFrequency": "monthly",
+    "currency": "INR"
+  },
 ]
