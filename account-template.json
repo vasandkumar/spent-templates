@@ -1,6 +1,6 @@
 [
   {
-    "templateName": "Savings",
+    "templateName": "Axis Savings",
     "bankName": "Axis Bank",
     "interestType": "tiered",
     "interestTierThresholds": [5000000, 2000000000],
