@@ -61,5 +61,5 @@
     "interestTierRates": [3.00, 3.50],
     "interestPayoutFrequency": "monthly",
     "currency": "INR"
-  },
+  }
 ]
