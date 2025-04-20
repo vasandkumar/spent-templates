@@ -1,21 +1,11 @@
 [
   {
-    "templateName": "Standard Savings",
-    "bankName": "Bank of Example",
+    "templateName": "Savings",
+    "bankName": "Axis Bank",
     "interestType": "tiered",
-    "interestTierThresholds": [1000, 5000, 10000],
-    "interestTierRates": [1.0, 1.5, 2.0, 2.5],
+    "interestTierThresholds": [5000000, 2000000000],
+    "interestTierRates": [2.75, 3.25],
     "interestPayoutFrequency": "monthly",
-    "currency": "USD"
-  },
-  {
-    "templateName": "High Yield Account",
-    "bankName": "SuperBank",
-    "interestType": "flat",
-    "interestTierThresholds": [],
-    "interestTierRates": [],
-    "interestRate": 3.0,
-    "interestPayoutFrequency": "quarterly",
-    "currency": "USD"
+    "currency": "INR"
   }
 ]
